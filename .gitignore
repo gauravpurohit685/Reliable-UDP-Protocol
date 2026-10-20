@@ -1,0 +1,30 @@
+# Compiled Object Files and Libraries
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+
+# Executables
+*.exe
+bin/
+obj/
+build/
+
+# Test Files & Temporary Transfer Artifacts
+*.log
+*.tmp
+test_input*
+test_output*
+received_*
+temp_*
+*.bin
+*.dat
+
+# Local Environment & Editor Files
+.vscode/
+.idea/
+.DS_Store
+powershell.cmd
+make.cmd
